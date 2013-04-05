@@ -1,4 +1,4 @@
-== MineBans Web API Java Library ==
+## MineBans Web API Java Library ##
 A small helper library to make using the web API for minebans.com in Java simpler.
 
 If you use Maven to build your project you can add our repo
