@@ -17,3 +17,4 @@ and dependency for the library
 	<scope>compile</scope>
 </dependency>
 ```
+The [Javadoc](http://bukkit.jacekk.co.uk:8000/view/libraries/job/MineBansWebAPILibrary/javadoc/) should cover everything you need to get started.
